@@ -31,21 +31,41 @@ Everything else is automatic.
 
 ---
 
+## Screenshots
+
+<div align="center">
+
+| GitHub Issues | Merged Pull Request |
+|:---:|:---:|
+| ![Issues](assets/Picture1.jpg) | ![PR Merged](assets/Picture2.jpg) |
+
+| Code Diff (Part 1) | Code Diff (Part 2) |
+|:---:|:---:|
+| ![Diff 1](assets/Picture3.jpg) | ![Diff 2](assets/Picture4.jpg) |
+
+| Closed PRs | QA Review Report |
+|:---:|:---:|
+| ![Closed PRs](assets/Picture5.jpg) | ![QA Report](assets/Picture6.jpg) |
+
+</div>
+
+---
+
 ## Demo
 
 > Real runs on a live Django e-commerce repository — no cherry-picking.
 
 ### Run 1 — Issue resolved and merged on first attempt
 
-https://github.com/user-attachments/assets/WhatsApp_Video_2026-06-05_at_2_01_57_PM.mp4
+https://youtu.be/kh9ZydnqNkI
 
 ### Run 2 — Self-healing retry loop: REJECTED → re-planned → APPROVED
 
-https://github.com/user-attachments/assets/WhatsApp_Video_2026-06-05_at_2_02_07_PM.mp4
+https://youtu.be/FkWlz3Peqb0
 
 ### Run 3 — Full pipeline with live QA report
 
-https://github.com/user-attachments/assets/WhatsApp_Video_2026-06-05_at_2_05_04_PM.mp4
+https://youtu.be/gLFJFGBk-ZY
 
 ---
 
