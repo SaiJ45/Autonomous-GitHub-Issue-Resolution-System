@@ -1,0 +1,27 @@
+# Secrets - NEVER commit these
+.env
+.env.master
+agents/ai_issue_agent/.env
+agents/ai_qa_agent/.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# AI cache (large generated files)
+.ai_cache/
+
+# Runtime data
+fail_summary_*.json
+integration/memory_store.json
+
+# VS Code history
+.history/
+
+# The cloned repo (external code)
+repo_clone/
+
+# Optional: large docs (remove these lines if you want to include them)
+*.docx

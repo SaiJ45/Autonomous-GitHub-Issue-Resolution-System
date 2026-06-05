@@ -1,0 +1,23 @@
+# Agent Orchestration
+langgraph
+langchain
+
+# Vector DB & Embeddings (Semantic Search)
+numpy
+faiss-cpu
+sentence-transformers
+tenacity
+
+# LLM APIs and integrations
+langchain-groq
+groq
+
+# Utility & Networ
+python-dotenv
+requests
+PyGithub      # GitHub API client (used by create_pull_request)
+
+# Code Testing & QA Validation
+pytest
+
+pydantic

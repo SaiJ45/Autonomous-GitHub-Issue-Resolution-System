@@ -1,0 +1,11 @@
+openai
+python-dotenv
+PyGithub
+gitpython
+docker
+groq
+sentence-transformers
+faiss-cpu
+numpy
+langgraph
+langchain-core
