@@ -1,6 +1,6 @@
 <div align="center">
 
-# Multi-Agent System
+# Autonomous GitHub Issue Resolution System
 
 ### An autonomous AI pipeline that resolves GitHub issues end-to-end
 ### No human needed after issue selection.
